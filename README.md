@@ -47,12 +47,3 @@ If you ever want to talk building, debugging, or turning an idea into something 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Watson752&theme=dracula" />
 </p>
-## GitHub stats
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Watson752&theme=dracula&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Watson752&layout=compact&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Watson752&show_icons=true&theme=dracula&hide_border=true" />
-</p>
