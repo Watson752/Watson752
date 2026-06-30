@@ -48,15 +48,4 @@ If you ever want to talk building, debugging, or turning an idea into something 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Watson752&theme=dracula" />
 </p>
 
----
 
-## Portfolio site (this repo)
-
-Interactive knowledge-graph portfolio built with Next.js, TypeScript, Tailwind, and React Flow.
-
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000). Deploy on [Vercel](https://vercel.com) with the root directory set to this repository.
