@@ -1,15 +1,5 @@
 ## Hi there 👋
-“Software builder, web tinkerer, and yes… I take gym progress as seriously as bug fixes.”
-
-I’m a Software Engineering (Co-op) student at Carleton University in Ottawa, Canada. I like building practical products end-to-end — clean frontends, reliable backend logic, and data/ML work that’s actually evaluated properly (not just “it trains”).
-
-Most of my work so far has been web + analytics: dashboards, productivity tools, and projects that turn messy information into something useful. Recently, I’ve been getting more serious about shipping like a real developer — better documentation, testing, and deployment so projects feel finished, not just “working on my machine.”
-
-When I’m not coding, you’ll usually find me in the gym or playing soccer. I like anything that rewards discipline, consistency, and incremental progress — which is basically the same mindset I bring to building software.
-
-I enjoy collaborating on projects that have a clear goal and measurable outcomes, whether that’s a data-heavy web app, an ML pipeline with explainability, or a tool that improves someone’s workflow.
-
-If you ever want to talk building, debugging, or turning an idea into something shippable, feel free to reach out.
+   <img src="nagare/nagare.svg" width="100%" alt="nagare" />
 
 ## Socials
 <p align="left">
